@@ -1,0 +1,60 @@
+.hero-bg {
+  background-image: url(../img/1778.jpg);
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.titulo1 {
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat',
+    sans-serif;
+}
+
+.brand {
+  font-family: 'Montserrat',
+    sans-serif;
+}
+
+.logohead {
+  width: 220px;
+}
+
+ul li {
+  font-family: 'Poppins',
+    sans-serif;
+  font-size: 17px;
+}
+
+p {
+  font-family: 'Poppins',
+    sans-serif;
+  color: #4a515f;
+}
+
+h1 {
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+h2 {
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+.btn1 {
+  background: #4885ED;
+  color: #ffffff;
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+.outlook {
+  width: 23px;
+}
